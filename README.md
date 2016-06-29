@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nativescript-plugin-firebase demo app
 
 Demo app for the {N} [Firebase plugin](https://www.npmjs.com/package/nativescript-plugin-firebase)
@@ -46,3 +47,7 @@ $ tns emulate ios --device iPhone-6s
 $ tns run android --emulator
 $ tns emulate android --geny "Nexus 6_23"
 ```
+=======
+# mercuryNS
+MercuryNS
+>>>>>>> 5bee1be03840a3136443565f6d7dbc7c6a833391
